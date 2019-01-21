@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL.Farmacia", "BL.Farmacia\BL.Farmacia.csproj", "{8DCDD3A9-CCD7-485C-850A-5AD9E160F94C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmacia.WinForm", "Farmacia.WinForm\Farmacia.WinForm.csproj", "{F6B22BC2-8305-46EF-A7AE-97E56C9FFF0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DCDD3A9-CCD7-485C-850A-5AD9E160F94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCDD3A9-CCD7-485C-850A-5AD9E160F94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCDD3A9-CCD7-485C-850A-5AD9E160F94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCDD3A9-CCD7-485C-850A-5AD9E160F94C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B22BC2-8305-46EF-A7AE-97E56C9FFF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B22BC2-8305-46EF-A7AE-97E56C9FFF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B22BC2-8305-46EF-A7AE-97E56C9FFF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B22BC2-8305-46EF-A7AE-97E56C9FFF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C59D23-BE3B-404B-B2A5-16170C9B4E5B}
+	EndGlobalSection
+EndGlobal

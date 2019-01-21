@@ -1,0 +1,6 @@
+C:\Users\TUCO\source\repos\Proyecto Farmacia\BL.Farmacia\bin\Debug\BL.Farmacia.dll
+C:\Users\TUCO\source\repos\Proyecto Farmacia\BL.Farmacia\bin\Debug\BL.Farmacia.pdb
+C:\Users\TUCO\source\repos\Proyecto Farmacia\BL.Farmacia\obj\Debug\BL.Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\TUCO\source\repos\Proyecto Farmacia\BL.Farmacia\obj\Debug\BL.Farmacia.dll
+C:\Users\TUCO\source\repos\Proyecto Farmacia\BL.Farmacia\obj\Debug\BL.Farmacia.pdb
+C:\Users\TUCO\source\repos\Proyecto Farmacia\BL.Farmacia\obj\Debug\BL.Farmacia.csprojAssemblyReference.cache
